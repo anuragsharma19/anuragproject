@@ -1,0 +1,7 @@
+name=ICW_CONFIG_NXTGE.gen
+password=C0nf1gU$er01
+endpointurl=http://cfgsrv-stg-ys2/configesearch/rest/productdetails
+media_contenttype=Content-Type
+media_contenttype_value=application/json
+media_accept=Accept
+media_accept_value=application/json
